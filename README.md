@@ -1,5 +1,8 @@
 # Lab4Web
 
-<img width="1030" height="753" alt="image" src="https://github.com/user-attachments/assets/d741f376-3698-4084-9d79-185b04547a8f" />
+kontak
+<img width="987" height="673" alt="image" src="https://github.com/user-attachments/assets/64ac2299-8c55-4a14-aaa5-50f0568efa22" />
 
-<img width="1017" height="688" alt="image" src="https://github.com/user-attachments/assets/1f940aae-ff57-4c03-9635-40f636f1fe5d" />
+about
+<img width="977" height="666" alt="image" src="https://github.com/user-attachments/assets/2ae708be-1359-41b5-b028-e1eaf8d8982b" />
+<img width="1042" height="467" alt="image" src="https://github.com/user-attachments/assets/c1aa35c9-32e5-4ba6-84f6-6e6d452cd861" />
